@@ -1,0 +1,6 @@
+filtered_traces/*
+logs/*
+tutorials/*
+traces.tar.gz
+.*
+!/.gitignore
